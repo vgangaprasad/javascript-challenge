@@ -1,6 +1,6 @@
 # JavaScript and DOM Manipulation
 
-![UFO Sightings](UFO-LEVEL-1/images/ufo-img.jpg)
+![UFO Sightings](UFO-LEVEL-1/static/images/ufo-img.jpg)
 
 ## Background
 
